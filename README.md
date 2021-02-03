@@ -4,7 +4,7 @@
 
 This assignment is focused on learning CSS!
 
-### Author: Student/Group Name
+### Author: Allee McCoy
 
 ### Links and Resources
 * [Eric Meyer's reset](https://meyerweb.com/eric/tools/css/reset/)
